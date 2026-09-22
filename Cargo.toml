@@ -1,0 +1,9 @@
+[package]
+name = "unitx"
+version = "1.0.0"
+edition = "2021"
+description = "Dimensional analysis engine: unit converter and expression checker with derived units and clear errors"
+license = "MIT"
+
+[profile.release]
+opt-level = 3
